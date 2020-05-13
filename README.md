@@ -25,5 +25,8 @@ See that you are in serve folder only when you run ```npm install``` in your ter
   
 This is npm installation error which tells you to audit fix and says found 6(or more) high severity vulnerabilities...
 Fix it by typing ```npm cache clean --force``` so if any log of files prevent installing npm, or there is unexpected end of JSON.. it can be fixed.. Also don't forget to ```cd ..``` to go back to web folder before starting the local server..
- 
+  
+## Wrapping up
+
+![](9ilogo.png)
 
