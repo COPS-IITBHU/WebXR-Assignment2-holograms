@@ -11,7 +11,7 @@ Developing Virtual Reality based solutions in areas like:
 Note: You'll need AR supported phones for each of the assignments.
   
 # What exactly are we gonna make?
-This assignment is going to be a fairly easy one... Cause the ideas of 8i integration with 8th wall is still not so mature.. What we will be making is a website that has a .hvrs or .8i format hologram... What you have made by following along the Medium website in step 3...
+This assignment is going to be a fairly easy one... Cause the ideas of 8i's integration with 8th wall is still not so mature.. What we will be making is a website that has a .hvrs or .8i format hologram... What you have made by following along the Medium website in step 3...
 Then you'll then have to customise it a bit. Also keep the hologram files in the local and not just use the default one, I'll provide some sample hvrs so you can change them.
   
 ## Customization
@@ -27,6 +27,6 @@ This is npm installation error which tells you to audit fix and says found 6(or 
 Fix it by typing ```npm cache clean --force``` so if any log of files prevent installing npm, or there is unexpected end of JSON.. it can be fixed.. Also don't forget to ```cd ..``` to go back to web folder before starting the local server..
   
 ## Wrapping up
-
+This assignment shows the scope of Virtual reality solution. No doubt VR is the way ahead and the future possibilities of WebVR and diverse.. Hopefully these tasks will clear your concepts about 8th wall and 8i's integration with it and you can keep customising these holograms to some new possibilities. 
 ![](8ilogo.png)
 
