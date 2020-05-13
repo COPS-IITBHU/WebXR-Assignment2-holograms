@@ -29,5 +29,5 @@ Fix it by typing ```npm cache clean --force``` so if any log of files prevent in
 ## Wrapping up
 This assignment shows the scope of Virtual reality solution. No doubt VR is the way ahead and the future possibilities of WebVR and diverse.. Hopefully these tasks will clear your concepts about 8th wall and 8i's integration with it and you can keep customising these holograms to some new possibilities. 
   
-![](8ilogo.png)
+<img src="8ilogo.png" height="180px" width="auto"></img>
 
