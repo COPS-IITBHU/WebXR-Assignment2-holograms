@@ -28,5 +28,5 @@ Fix it by typing ```npm cache clean --force``` so if any log of files prevent in
   
 ## Wrapping up
 
-![](9ilogo.png)
+![](8ilogo.png)
 
