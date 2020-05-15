@@ -16,7 +16,7 @@ Then you'll then have to customise it a bit. Also keep the hologram files in the
 
 ## Customization
 Make your own changes by changing the .hvrs and if you want to, you can also change it's floor_logo_cropped.jpg into something meaningful. Don't Forget the aim is to make a VR human with the help of 8i, also the default holograms that appears is uploaded in cloudfront and is not by you, and services like cloudfront have pricing so it's better you keep them in local and provide those links... Just a sample to show you one possible customisation is [here](https://vimeo.com/user115354946/review/417906175/fd32a85c2d) ...
-The score for completion of the whole task is 100 points with 20 points in customization to something meaningful, 20 points to keeping the .hvrs in your local... Rest 60 points in achieving the default hologram following step 3 above.
+The score for completion of the whole task is 200 points with 40 points in customization to something meaningful, 40 points to keeping the .hvrs in your local... Rest 120 points in achieving the default hologram following step 3 above.
 
 ## Solving Errors
 See that you are in serve folder only when you run ```npm install``` in your terminal. Still sometimes this bug appears
